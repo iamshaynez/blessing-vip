@@ -6,7 +6,7 @@ description: "This is meta description"
 ####################### Banner #########################
 banner:
   title : "Get Blessed by the Gods (and Goddesses) of Your Choice!"
-  image : "images/banner-art.svg"
+  image : "images/banner-art.png"
   content : "Tired of unanswered prayers? Seeking divine intervention with a twist? Blessing For VIPs offers exclusive access to virtual blessings from a pantheon of deities, all with a touch of humor and satire. Find your perfect divine match and subscribe for personalized blessings, rituals, and more! Click below to explore our heavenly pricing plans."
   button:
     enable : true
@@ -106,7 +106,7 @@ screenshot:
 
 ##################### Call to action #####################
 call_to_action:
-  enable : true
+  enable : false
   title : "Ready to get started?"
   image : "images/cta.svg"
   content : ""
