@@ -11,7 +11,7 @@ basic:
   price_per : "month"
   info : "Personally wishes"
   services:
-  - "Founder's Blessing Email Once A Year"
+  - "Founder's Blessing Email Every Month."
   - "With Beautifully Designed Image."
   button:
     enable : true
