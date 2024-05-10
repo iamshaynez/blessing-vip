@@ -4,62 +4,52 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 2
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 2
 
 [[main]]
 name = "Pricing"
 url = "pricing/"
 weight = 3
 
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 4
-
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 5
-
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "Pantheon Profiles"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
+name = "Miracle Reports"
 url = "#"
 
 [[footer_left]]
-name = "Pricing"
-url = "pricing/"
+name = "Heavenly FAQs"
+url = "faq/"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
+name = "Testimonials"
 url = "pricing/"
 
 [[footer_middle]]
 name = "Platform"
-url = "#"
+url = "pricing/"
 
 [[footer_middle]]
-name = "Features"
+name = "Pilgrim’s Path"
 url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
+name = "Spiritual Privacy"
 url = "privacy-policy/"
 
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Karma Conditions"
 url = "terms-conditions/"
 
 [[footer_right]]
-name = "FAQ"
-url = "faq/"
+name = "Afterlife Affairs"
+url = "#"

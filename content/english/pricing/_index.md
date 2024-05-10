@@ -6,51 +6,47 @@ description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
-  price: "$49"
+  name : "Founder's Blessing"
+  price: "$0.99"
   price_per : "month"
-  info : "Best For Small Individuals"
+  info : "Personally wishes"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Founder's Blessing Email Once A Year"
+  - "With Beautifully Designed Image."
   button:
     enable : true
-    label : "Get started for free"
+    label : "Get started"
     link : "#"
     
 professional:
-  name : "Professional Plan"
-  price: "$49"
+  name : "Global Grace"
+  price: "$1.99"
   price_per : "month"
-  info : "Best For Professionals"
+  info : "Bring the luck"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+    - "Blessing Email in Random Timing"
+    - "Experience from Every God in History"
+    - "Enjoy the excitement of not knowing whats next luck"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Get started"
     link : "#"
     
 business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  name : "The Eternal Halo"
+  price: "$29.99"
+  price_per : "lifetime"
+  info : "Let's have faith"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Everything in Global Grace"
+  - "A lifetime long blessing"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Get started"
     link : "#"
 
 call_to_action:
-  enable : true
+  enable : false
   title : "Need a larger plan?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
