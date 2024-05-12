@@ -2,7 +2,7 @@
 title: "Blessing For VIPs..."
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Blessing For VIPs: Get your daily dose of divine intervention, delivered straight to your inbox. Subscribe now for blessings, good fortune, and a touch of heavenly humor."
 ####################### Banner #########################
 banner:
   title : "Get Blessed by the Gods (and Goddesses) of Your Choice!"
