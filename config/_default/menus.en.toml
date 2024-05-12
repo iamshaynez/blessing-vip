@@ -17,7 +17,7 @@ weight = 3
 # footer menu left
 [[footer_left]]
 name = "Pantheon Profiles"
-url = "#"
+url = "/pantheon"
 
 [[footer_left]]
 name = "Miracle Reports"
@@ -30,11 +30,7 @@ url = "faq/"
 
 # footer menu middle
 [[footer_middle]]
-name = "Testimonials"
-url = "pricing/"
-
-[[footer_middle]]
-name = "Platform"
+name = "Services & Pricing"
 url = "pricing/"
 
 [[footer_middle]]
@@ -49,7 +45,3 @@ url = "privacy-policy/"
 [[footer_right]]
 name = "Karma Conditions"
 url = "terms-conditions/"
-
-[[footer_right]]
-name = "Afterlife Affairs"
-url = "#"

@@ -74,7 +74,7 @@ service:
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "/pricing"
         
     # service item loop
     - title : "A World of Blessings at Your Fingertips"
@@ -94,7 +94,7 @@ service:
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "/faq"
         
 ################### Screenshot ########################
 screenshot:
