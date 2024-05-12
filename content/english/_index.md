@@ -10,8 +10,8 @@ banner:
   content : "Tired of the same old routine? Yearning for a touch of the divine in your daily life? Blessing For VIPs offers a unique subscription service delivering blessings from a pantheon of deities, spirits, and mythical beings from across the globe, straight to your inbox."
   button:
     enable : true
-    label : "Service Available"
-    link : "pricing/"
+    label : "Learn More"
+    link : "faq/"
 
 ##################### Feature ##########################
 feature:
