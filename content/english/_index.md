@@ -5,7 +5,7 @@ subtitle: ""
 description: "Blessing For VIPs: Get your daily dose of divine intervention, delivered straight to your inbox. Subscribe now for blessings, good fortune, and a touch of heavenly humor."
 ####################### Banner #########################
 banner:
-  title : "Blessing For VIPs: Divine Inspiration Delivered to Your Inbox"
+  title : "Divine Inspiration Delivered to Your Inbox"
   image : "images/banner-art.png"
   content : "Tired of the same old routine? Yearning for a touch of the divine in your daily life? Blessing For VIPs offers a unique subscription service delivering blessings from a pantheon of deities, spirits, and mythical beings from across the globe, straight to your inbox."
   button:
