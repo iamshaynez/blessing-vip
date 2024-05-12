@@ -12,7 +12,7 @@ basic:
   info : "Personally wishes"
   services:
   - "Founder's Blessing Email Every Month."
-  - "With Beautifully Designed Image."
+  - "Personal Best Wishes!"
   button:
     enable : true
     label : "Get started"
@@ -24,7 +24,7 @@ professional:
   price_per : "month"
   info : "Bring the luck"
   services:
-    - "Blessing Email in Random Timing"
+    - "Blessing Email Every Week"
     - "Experience from Every God in History"
     - "Enjoy the excitement of not knowing whats next luck"
   button:
@@ -39,7 +39,7 @@ business:
   info : "Let's have faith"
   services:
   - "Everything in Global Grace"
-  - "A lifetime long blessing"
+  - "Lasts Lifetime Long..."
   button:
     enable : true
     label : "Get started"
