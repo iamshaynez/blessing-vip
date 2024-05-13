@@ -2,9 +2,11 @@
 title: "Pantheon Profile"
 subtitle: ""
 # meta description
-description: "Pantheon Profile of Blessing for VIPs service. We have more than 300 gods registered in our database for you!"
+description: "Pantheon Profile of Blessing for VIPs service. Baseline from Dictionary of Gods"
 draft: false
 ---
+
+![Pantheon Profile](https://cdn.sa.net/2024/05/13/btNfXn2iOGsQIlH.png)
 
 ### A
 
