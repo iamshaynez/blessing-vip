@@ -46,10 +46,10 @@ business:
     link : "#"
 
 call_to_action:
-  enable : false
-  title : "Need a larger plan?"
+  enable : true
+  title : "We are almost Ready!"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Let us know if you'd like to request early access."
   button:
     enable : true
     label : "Contact Us"
