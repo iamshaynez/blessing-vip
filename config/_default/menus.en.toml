@@ -15,9 +15,14 @@ url = "faq/"
 weight = 3
 
 [[main]]
+name = "Pilgrim’s Path"
+url = "example/"
+weight = 4
+
+[[main]]
 name = "Pricing"
 url = "pricing/"
-weight = 4
+weight = 5
 
 # footer menu left
 [[footer_left]]
@@ -40,7 +45,7 @@ url = "pricing/"
 
 [[footer_middle]]
 name = "Pilgrim’s Path"
-url = "#"
+url = "example/"
 
 # footer menu right
 [[footer_right]]
