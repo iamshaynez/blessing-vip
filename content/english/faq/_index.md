@@ -4,6 +4,16 @@ subtitle: ""
 # meta description
 description: "Blessing For VIPs is a unique subscription service offering humorous blessings from a diverse pantheon of deities, spirits, and mythical beings. Delivered straight to your inbox, these blessings are crafted to be both entertaining and inspiring, providing a moment of lighthearted reflection in your day."
 draft: false
+
+call_to_action:
+  enable : true
+  title : "I'm committed!"
+  image : "images/banner-art.png"
+  content : "I am wholeheartedly committed to following your path, delighting in your divine glory and blessings."
+  button:
+    enable : true
+    label : "Service & Pricing"
+    link : "pricing/"
 ---
 
 
