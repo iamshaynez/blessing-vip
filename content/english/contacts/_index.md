@@ -6,6 +6,5 @@ description: "Blessing For VIPs Contact Page"
 draft: false
 ---
 
-### Contact Us Via Support Email
+> Contact us via support email in early stage: **support@blessing.vip**
 
-* **Mail: support@blessing.vip**
