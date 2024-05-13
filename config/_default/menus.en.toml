@@ -26,7 +26,7 @@ url = "/pantheon"
 
 [[footer_left]]
 name = "Miracle Reports"
-url = "#"
+url = "/miracle-report"
 
 [[footer_left]]
 name = "Heavenly FAQs"
