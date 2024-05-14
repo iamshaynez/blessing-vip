@@ -2,7 +2,7 @@
 title: "Pricing"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Unlock divine favor with Blessing For VIPs! Choose from flexible subscription plans and receive surprising, humorous, and inspiring blessings from a diverse pantheon of gods and deities from around the world, delivered straight to your inbox. Select your frequency and get ready to smile, reflect, and prosper!"
 draft: false
 
 basic:
@@ -11,12 +11,12 @@ basic:
   price_per : "month"
   info : "Personally wishes"
   services:
-  - "Founder's Blessing Email Every Month."
+  - "Founder's Blessing Every Month."
   - "Personal Best Wishes!"
   button:
     enable : true
     label : "Get started"
-    link : "#"
+    link : "https://buy.stripe.com/eVabIUfIycTydX2eUU"
     
 professional:
   name : "Global Grace"
@@ -24,13 +24,13 @@ professional:
   price_per : "month"
   info : "Bring the luck"
   services:
-    - "Blessing Email Every Week"
+    - "Every Week Blessing"
     - "Experience from Every God in History"
     - "Enjoy the excitement of not knowing whats next luck"
   button:
     enable : true
     label : "Get started"
-    link : "#"
+    link : "https://buy.stripe.com/8wM6oAeEu4n2dX27st"
     
 business:
   name : "The Eternal Halo"
@@ -43,13 +43,13 @@ business:
   button:
     enable : true
     label : "Get started"
-    link : "#"
+    link : "https://buy.stripe.com/8wMfZa1RI7zeg5adQS"
 
 call_to_action:
   enable : true
-  title : "We are almost Ready!"
+  title : "Divine Designer"
   image : "images/cta.svg"
-  content : "Let us know if you'd like to request early access."
+  content : "Craft your own bespoke blessings with our premium customization options, tailored to your unique needs and sense of humor."
   button:
     enable : true
     label : "Contact Us"
