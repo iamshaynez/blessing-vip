@@ -16,7 +16,7 @@ weight = 3
 
 [[main]]
 name = "Pilgrim’s Path"
-url = "example/"
+url = "blog/"
 weight = 4
 
 [[main]]
