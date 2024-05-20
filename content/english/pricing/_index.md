@@ -40,6 +40,7 @@ business:
   services:
   - "Everything in Global Grace"
   - "Lasts Lifetime Long..."
+  - "Customization"
   button:
     enable : true
     label : "Get started"
