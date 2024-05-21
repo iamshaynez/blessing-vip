@@ -4,7 +4,8 @@ logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "https://cdn.sa.net/2024/05/20/F72RgeoIjqxuPaz.png" # this image will be used as fallback if a page has no image of its own
+favicon = "/images/favicon.ico"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
@@ -35,3 +36,8 @@ button = "I Accept"
 title = "Email"
 icon = "fab fa-erlang" # https://fortawesome.com/sets/font-awesome-5-brands
 link = "mailto:support@blessing.vip"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
