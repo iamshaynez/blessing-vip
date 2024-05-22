@@ -3,7 +3,7 @@ baseURL = "http://blessing.vip"
 title = "Blessing For VIPs"
 theme = "bigspring-light-hugo"
 # post pagination
-paginate = "3"
+paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
